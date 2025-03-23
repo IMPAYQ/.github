@@ -51,7 +51,7 @@ Our codebase is organized into the following repositories:
 
 To explore or contribute to ImpayQ:
 
-1. Check out our [core contracts](./Aztec/Impayq/corecontracts)
+1. Check out our [core contracts](https://github.com/IMPAYQ/Core-Contracts)
 2. Read the [Aztec Network documentation](https://docs.aztec.network/)
 3. Learn about [Noir programming language](https://noir-lang.org/)
 
@@ -59,11 +59,11 @@ To explore or contribute to ImpayQ:
 
 ![Roadmap](https://via.placeholder.com/800x300?text=ImpayQ+Roadmap)
 
-- **Q2 2023**: Core protocol development
-- **Q3 2023**: Testnet deployment and security audits
-- **Q4 2023**: Mainnet launch and merchant onboarding
-- **Q1 2024**: Integration with major e-commerce platforms
-- **Q2 2024**: Mobile payment solutions
+- **Q2 2025**: Core protocol development
+- **Q3 2025**: Testnet deployment and security audits
+- **Q4 2025**: Mainnet launch and merchant onboarding
+- **Q1 2026**: Integration with major e-commerce platforms
+- **Q2 2026**: Mobile payment solutions
 
 ## Join Us
 
