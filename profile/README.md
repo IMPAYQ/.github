@@ -9,6 +9,10 @@ ImpayQ is developing cutting-edge payment solutions on the Aztec Network that co
 
 We believe that privacy is a fundamental right that should not be sacrificed for functionality. ImpayQ aims to bridge the gap between traditional payment systems and blockchain technology, offering merchants and users a seamless experience while preserving their financial privacy.
 
+## Architecture
+
+![image](https://github.com/user-attachments/assets/61a5c9bf-f394-46b2-80bf-7dd3f8bfc17e)
+
 ## Core Products
 
 ### Privacy-Enabled Payment Protocol
