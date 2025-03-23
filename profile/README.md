@@ -1,4 +1,4 @@
-# ImpayQ
+# ImpayQ: Your Gateway to Impeccable Payments
 
 
 ## Building Privacy-Focused Payment Infrastructure on Aztec Network
